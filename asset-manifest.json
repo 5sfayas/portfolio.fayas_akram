@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio.fayas_akram/static/css/main.bab0b925.chunk.css",
+    "main.js": "/portfolio.fayas_akram/static/js/main.c13a21b0.chunk.js",
+    "main.js.map": "/portfolio.fayas_akram/static/js/main.c13a21b0.chunk.js.map",
+    "runtime-main.js": "/portfolio.fayas_akram/static/js/runtime-main.3c672546.js",
+    "runtime-main.js.map": "/portfolio.fayas_akram/static/js/runtime-main.3c672546.js.map",
+    "static/js/2.ae381849.chunk.js": "/portfolio.fayas_akram/static/js/2.ae381849.chunk.js",
+    "static/js/2.ae381849.chunk.js.map": "/portfolio.fayas_akram/static/js/2.ae381849.chunk.js.map",
+    "static/js/3.86ea7988.chunk.js": "/portfolio.fayas_akram/static/js/3.86ea7988.chunk.js",
+    "static/js/3.86ea7988.chunk.js.map": "/portfolio.fayas_akram/static/js/3.86ea7988.chunk.js.map",
+    "index.html": "/portfolio.fayas_akram/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/portfolio.fayas_akram/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.ae381849.chunk.js.LICENSE.txt": "/portfolio.fayas_akram/static/js/2.ae381849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c672546.js",
+    "static/js/2.ae381849.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.c13a21b0.chunk.js"
+  ]
+}
