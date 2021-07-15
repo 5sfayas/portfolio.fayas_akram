@@ -1,0 +1,203 @@
+{
+  "main": {
+    "name":"Fayas Akram",
+    "description":"I am System Engineer, Developer, DevOps and Blogger.",
+    "image":"0.jpeg",
+    "bio":"I deploy and maintain system infrastructure. Proficient in technologies like AWS, Linux & Windows Servers, Docker, Kubernetes, AWS ECS, Nginx and ELK Stack. I am passionate about automtate repetative task using PowerShell and Bash. Currently Practicing IaaC - Terraform and Ansible. I Write My IT Test Cases & Experience on blogger for IT professionals especially for beginners who want to learn and automate infrastructure.",
+    "contactmessage":"Feel free to contact me",
+    "email": "fayas_akram@yahoo.co.uk",
+    "email1":"msfayas001@gmail.com",
+    "phone": "+94770615277",
+    "github":"https://github.com/5sfayas",
+    "project":"https://stateofstudy.blogspot.com/",
+    "address":{
+      "street":"No 339, Kuttikarachi, Kinniya - 04",
+      "city":"Kinniya,",
+      "state":"Eastern Province",
+      "zip": "31100"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"#",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/fayas-akram/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/fayas_akram/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/5sfayas",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "work":[
+      {
+        "company":"System Engineer",
+        "title":"MyDigitalOffice ",
+        "years":"July 2020 - August 2021",
+        "description":"Provide L2 and L3 Infrastructure level Support. Deployed AWS ElasticSearch and Sync Atlas MongoDB. Configured AWS SFTP Transfer to access an AWS S3 and Automate AWS SFTP User creation using Terraform. Involving in Qruise Bot Project [Similar to K8s]. Deployed Log Monitoring Using ELK Stack [On Going Project]. Involves in new releases & deployment with developers. Responsible for writing scripts and templates required for the automatic provisioning of resources. Infrastructure monitoring AWS EC2 Instance backup automation and snapshot monitoring. Automate the Database Backup"
+      },
+      {
+        "company":"Blogger",
+        "title":"Blogger ",
+        "years":"July 2018 - Present",
+        "description":"Write My IT Test Cases & Experience for IT professionals especially for beginners who want to learn and automate infrastructure. Such as Amazon Web Services (AWS), Cloud Computing, VMware, Infrastructure as Code, CI/CD, ELK Stack, System Administration tools, and Automating Repetitive Task of their infrastructure."
+      },
+      {
+        "company":"IT Support Specialist",
+        "title":"ZILLIONe",
+        "years":"April 2018 - December 2018",
+        "description":" Developing Scripts using scripting languages such as PowerShell, Shell modules to automate the regular tasks. Monitor and maintain Windows Server. Managing Windows AD, DNS, DHCP tools. Deploying, Maintaining and Configuring VMs on a daily basis. Maintain, monitor and allocate resources Hyper-V"
+      }
+    ],
+    "education":[
+      {
+        "school":"BSC(Hon)s Information Technology",
+        "degree":"Sri Lanka Institute of Information Technology"
+        
+      },
+      {
+        "school":"T/RKM Koneswera Hindu College",
+        "degree":"Bio Stream"
+        
+      }
+    ],
+    "skills":[
+      {
+        "name":"Linux",
+        "level":"70%"
+      },
+      {
+        "name":"AWS",
+        "level":"65%"
+      },
+      {
+        "name":"AWS ECS",
+        "level":"80%"
+      },
+      {
+        "name":"Docker",
+        "level":"90%"
+      },
+      {
+        "name":"Powershell",
+        "level":"80%"
+      },
+      {
+        "name":"Bash",
+        "level":"80%"
+      },
+      {
+        "name":"Nginx",
+        "level":"80%"
+      },
+      {
+        "name":"ELK Stack",
+        "level":"75%"
+      }
+      ,
+      {
+        "name":"Terrafrom",
+        "level":"60%"
+      },
+      {
+        "name":"Ansible",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blogger",
+        "category":"My IT Blog",
+        "image":"x1.png",
+        "url":"https://stateofstudy.blogspot.com/"
+      },
+      {
+        "title":"Portfolio 1",
+        "category":"My Portfolio",
+        "image":"x2.png",
+        "url":"#"
+      },
+      {
+        "title":"Filing System",
+        "category":"File Orering Project for my Local Clients",
+        "image":"x3.jpg",
+        "url":"https://github.com/5sfayas/Filing-System"
+      },
+      {
+        "title":"POS System",
+        "category":"A POS System Developed for Local Clients",
+        "image":"12.webp",
+        "url":"#"
+      },
+      {
+        "title":"PortFolio 2",
+        "category":"My Portfolio",
+        "image":"13.png",
+        "url":"#"
+      },
+      {
+        "title":"InstaScrapper",
+        "category":"A Puppeteer base web scrapper to find who unfollowed me on instagram",
+        "image":"x4.jpg",
+        "url":"https://github.com/5sfayas/NodeJS-Instagram-Scrapper"
+      },
+      {
+        "title":"Terraform - Cost Efficient Auto Scaling",
+        "category":"AutoScale EC2 Instance - Deployed Using Terraform",
+        "image":"x5.png",
+        "url":"https://stateofstudy.blogspot.com/2020/05/optimize-cost-by-shutting-down-ec2.html"
+      },
+      {
+        "title":"Ansible - Automate File Backup",
+        "category":"Automate File Backup Using Ansible",
+        "image":"x6.jpg",
+        "url":"https://stateofstudy.blogspot.com/2020/03/automate-backup-using-ansible.html"
+      },
+      {
+        "title":"Filebeat_ELK",
+        "category":"Deploy ELK Stack to Centrelize Container Logs",
+        "image":"x7.jpg",
+        "url":"https://stateofstudy.blogspot.com/2020/02/centyrelize-container-logs-using-elk.html"
+      },
+      {
+        "title":"Find Container Ip",
+        "category":"Find Container IP Using Bash Script",
+        "image":"x9.jpg",
+        "url":"https://github.com/5sfayas/find_container_ip"
+      },
+      {
+        "title":"Ansible - LAMP Stack",
+        "category":"Deploy LAMP Stack Using Ansible",
+        "image":"x8.jpg",
+        "url":"https://github.com/5sfayas/Ansible_VPC_LAMP"
+      },
+      {
+        "title":"POSH-SHH",
+        "category":"POSH_SSH to execute Linux shell",
+        "image":"x10.jpg",
+        "url":"https://github.com/5sfayas/POSH-SHH"
+      }
+    ]
+  }
+}
